@@ -32,7 +32,7 @@ Bu tablo, Makine Öğrenmesi sınavıma hazırlanırken tüm konuları **tek bir
 | ** OTOMATİK (AutoML)** | Grid Search, Random Search, Bayesian | Modelin en iyi ayarlarını (parametrelerini) otomatik olarak arar. | En iyi performansı bulmak için manuel denemek yerine makineye aramak. | Grid Search = Tüm kombinasyonları dener (yavaş). Random Search = Rastgele dener (hızlı). |
 
 
-## ⚠️ En Çok Karıştırılan 5 İkili 
+## İPUÇLARIM
 - **Random Forest vs Boosting:** RF paralel (aynı anda), Boosting ardışık (sırayla).
 - **Ridge vs Lasso:** Ridge hepsini küçültür, Lasso bazılarını SIFIR yapar (özellik seçer).
 - **CNN vs RNN:** CNN resim içindir (uzamsal), RNN zaman/ses içindir (zamansal).
