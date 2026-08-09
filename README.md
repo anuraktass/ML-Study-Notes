@@ -2,7 +2,7 @@
 ML/DL Algorithms Cheat Sheet: Random Forest, SVM, XGBoost, LightGBM, CNN, RNN, LSTM, BERT, GPT, PCA, ARIMA, Reinforcement Learning + Exam Notes
 
 
-# 🤖 Makine Öğrenmesi & Yapay Zeka Ansiklopedisi
+# 🤖 Makine Öğrenmesi & Yapay Zeka 
 
 > Tarih: Ağustos 2026  
 > Hazırlayan: [Emine Nur AKTAŞ]
